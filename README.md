@@ -101,3 +101,13 @@
                     <artifactId>spring-boot-maven-plugin</artifactId>
                 </plugin>
 
+####5.打包命令
+    mvn package
+####6.部署
+    target/aip-0.0.1-SNAPSHOT.war
+部署到tomcat的webapps下
+
+
+
+
+
